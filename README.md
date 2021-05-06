@@ -13,3 +13,6 @@ Then, go to the root of the repository and then do the following at the terminal
 After a few seconds the web content should be served and visible via the localhost at port `8080` at http://localhost:8080/.
 
 If you are on a machine running on a Mac / MacBook, press `Control` + `C` to termination the session. 
+
+## Reference
+1. Building web applications with Spring Boot and Kotlin at https://spring.io/guides/tutorials/spring-boot-kotlin/
